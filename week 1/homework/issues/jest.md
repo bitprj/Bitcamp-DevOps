@@ -9,10 +9,16 @@ __Requirements__
 If you're stuck, here are some hints:
 
 <details><summary> Hint #1!</summary>
-you'll probably want 3 files in your repo for this one. "src" should store filterByTerm.js, "__test__" should  store filterByTerm.spec.js, and ".github/workflows" should store the .yml file you'll need to write.</details>
+  
+You'll probably want 3 files in your repo for this one. "src" should store filterByTerm.js, "__test__" should  store filterByTerm.spec.js, and ".github/workflows" should store the .yml file you'll need to write.
+</details>
 
 <details><summary> Hint #2!</summary>
-Jest doesn't need a community based action, it's built right in to GitHub Actions. See if the workflow you made in the CI intro could be adapted.</details>
+  
+Jest doesn't need a community based action, it's built right in to GitHub Actions. See if the workflow you made in the CI intro could be adapted.
+</details>
 
 <details><summary> Hint #3!</summary>
-Node.js is a JavaScript-based framework - google "node.js github actions" and see if you can find a templated workflow you can make some minor changes to, and put it in your .github/workflows directory. </details>
+  
+Node.js is a JavaScript-based framework - google "node.js github actions" and see if you can find a templated workflow you can make some minor changes to, and put it in your .github/workflows directory. 
+</details>
