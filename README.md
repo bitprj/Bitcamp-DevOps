@@ -11,7 +11,7 @@ A 3-week course on using DevOps via GitHub Actions.
 __Learning Objectives__
 
   - Create a workflow with GitHub Actions
-  - Learn how to implement community-based actions
+  - Learn how to implement community actions
   - Intro to Continuous Integration (CI)
  
   Intro to GitHub Actions:
