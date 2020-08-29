@@ -142,3 +142,9 @@ run();
 
 - we have part 5, which is extremely similar to part 4, except with a different language to write actions
     - do it independently, and create the action files required of you from it
+    
+ 
+## Conclusion
+
+- we covered CD, and custom actions
+- next week - final touches!
