@@ -24,4 +24,16 @@ __Learning Objectives__
   
 ### Week 2
 
-(will update as I write the scripts for further weeks)
+__Learning Objectives__
+
+  - Intro to Continuous Deployment (CD)
+  - Overview of writing custom action files
+  
+  Intro to Continuous Deployment:
+  - What is CD, and how does it follow CI?
+  - Deploying a tic-tac-toe game
+  
+  Custom Action Files:
+  - What is an action?
+  - An overview of APIs
+  - Using JavaScript to write them
