@@ -6,6 +6,8 @@ __Requirements__
   - The test should run on both a push and a pull request made to the master branch.
   - Ubuntu-latest should be used
 
+*note: don't worry about the package.json and package-lock.json files, just incluce them in the main portion of your repository.*
+
 If you're stuck, here are some hints:
 
 <details><summary> Hint #1!</summary>
