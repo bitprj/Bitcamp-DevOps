@@ -37,3 +37,17 @@ __Learning Objectives__
   - What is an action?
   - An overview of APIs
   - Using JavaScript to write them
+  
+### Week 3
+  
+ __Learning Objectives__
+  
+  - Overview of GitHub Script
+  - Demonstration of Microsoft Azure's functionality with GitHub Actions
+
+  GitHub Script:
+  - What is GitHub Scripts, and how can it be integrated into CD?
+  - How is a Script written?
+  
+  Microsoft Azure:
+  - How are cloud-based systems integrated into GitHub Actions?
