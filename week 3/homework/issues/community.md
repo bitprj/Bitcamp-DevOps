@@ -7,7 +7,7 @@ The task at hand: You have here a .md file ridden with spelling errors, and a py
 __Requirements__
 
   - Find a way to test the .md file for spelling errors.
-    - As it stands, this test should __fail__. Be careful, however, to make sure it fails because of the typos, and *not* because of the proper nouns (like "Horatio" and "Yorrick")
+    - As it stands, this test should __fail__. Be careful, however, to make sure it fails because of the typos, and *not* because of the proper nouns (like "Horatio" and "Yorick")
   - Find a way to implement python unit testing, given a test file and function to be tested.
     - This test should succeed.
     
