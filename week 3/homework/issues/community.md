@@ -21,6 +21,8 @@ Python actually has its testing as part of GitHub's official documentation. The 
 https://docs.github.com/en/actions/language-and-framework-guides/using-python-with-github-actions
 
 https://github.com/marketplace/actions/run-pyspelling-as-a-github-action
+
+Also, as for file placement in your repository, besides a .github/workflows file for your .yaml files, and an src folder for the fibonacci.py, don't worry about putting things in folders. Those two should be all you need.
 </details>
 
 <details><summary> Hint #2!</summary>
