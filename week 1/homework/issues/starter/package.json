@@ -1,0 +1,28 @@
+{
+  "name": "sample-setup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "collectCoverage": true,
+    "coverageReporters": ["html", "text"]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelloughnane/sample-setup.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaelloughnane/sample-setup#issues"
+  },
+  "homepage": "https://github.com/michaelloughnane/sample-setup#readme",
+  "devDependencies": {
+    "jest": "^24.9.0",
+    "prettier": "^1.18.2"
+  }
+}
